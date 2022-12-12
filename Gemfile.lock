@@ -84,6 +84,7 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
+    devise-bootstrap-views (1.1.0)
     erb-formatter (0.3.0)
     erubi (1.11.0)
     ffi (1.15.5)
@@ -265,6 +266,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   devise
+  devise-bootstrap-views (~> 1.0)
   erb-formatter
   hirb
   jbuilder (~> 2.7)
